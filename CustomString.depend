@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679252082 source:c:\home\developer\cpp\customstring\main.cpp
+	"String.h"
+
+1679251906 c:\home\developer\cpp\customstring\include\string.h
+	<iostream>
+
