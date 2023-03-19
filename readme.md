@@ -28,9 +28,12 @@ My custom string class has the ff methods:
 
 ### Build
 Use the compiler of your choice to link and build the implementation files.
+
 Class header file is in `includes/` folder and implementation is in `src/` .
+
 Build with the C++14 standard
 
 #### Todo
 Build and test linux executable with wsl2.
+
 Write test for class.
