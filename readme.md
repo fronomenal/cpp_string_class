@@ -15,10 +15,6 @@ Compiled with:
 ### IDE
 Project uses the codeblocks IDE and can be easily imported.
 
-## Launch
-
-The compiled executable can be found in the bin directory. Only windows binary is availabe.
-
 ### Features
 My custom string class has the ff methods:  
   1. Get length of string in constant time.
